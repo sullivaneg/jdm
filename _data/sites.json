@@ -7468,7 +7468,7 @@
         "name": "GAP",
         "url": "https://privacyportal.onetrust.com/webform/e1cf9ab6-fc39-4557-b4ef-4393861dad52/ab80a2eb-1313-49f2-9a8a-e8d8d43f1521",
         "difficulty": "hard",
-        "notes": "Need to fill out a privacy request form or reach out directly to customer service."
+        "notes": "Need to fill out a privacy request form or reach out directly to customer service.",
         "domains": ["gap.com"]
     },
 
