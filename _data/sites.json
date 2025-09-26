@@ -4219,6 +4219,7 @@
         "url": "https://www.coolmathgames.com/privacyp",
         "difficulty": "hard",
         "notes": "'If you would like to make a request, cancel your account or request we delete or no longer use your account information to provide you Services, contact us at privacy@coolmath.com'",
+        "email": "privacy@coolmath.com",
         "domains": [
             "coolmathgames.com"
         ]
