@@ -4213,6 +4213,17 @@
         "notes_fr": "Il est seulement possible de désactiver le frais de renouvellement automatique. Lorsque le renouvellement sera désactivé vos étoiles seront remis à 0.",
         "domains": ["chefcookit.com"]
     },
+
+    {
+        "name": "CoolMathGames",
+        "url": "https://www.coolmathgames.com/privacyp",
+        "difficulty": "hard",
+        "notes": "'If you would like to make a request, cancel your account or request we delete or no longer use your account information to provide you Services, contact us at privacy@coolmath.com'",
+        "domains": [
+            "coolmathgames.com"
+        ]
+    },
+
     {
         "name": "Cool Shirtz",
         "url": "https://shirtz.cool/pages/store-policies",
@@ -7442,6 +7453,7 @@
         "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
         "domains": ["gamestop.com"]
     },
+
     {
         "name": "Gamma",
         "url": "https://gamma.app/",
@@ -7449,6 +7461,15 @@
         "notes": "Click the profile icon in the top-right corner, go to Account Settings, select \"Delete my account\", check the confirmation box, and click \"Yes, delete my account\".",
         "domains": ["gamma.app"]
     },
+
+    {
+        "name": "GAP",
+        "url": "https://privacyportal.onetrust.com/webform/e1cf9ab6-fc39-4557-b4ef-4393861dad52/ab80a2eb-1313-49f2-9a8a-e8d8d43f1521",
+        "difficulty": "hard",
+        "notes": "Need to fill out a privacy request form or reach out directly to customer service."
+        "domains": ["gap.com"]
+    },
+
     {
         "name": "Garena",
         "url": "https://www.garena.sg/support/",
