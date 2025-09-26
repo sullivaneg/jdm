@@ -2878,6 +2878,7 @@
             "brevo.com"
         ]
     },
+
     {
         "name": "Brilliant",
         "url": "https://brilliant.org/account/settings/deactivate/",
@@ -11841,6 +11842,16 @@
         "notes": "Click 'DELETE ACCOUNT' at the bottom of the 'Account Settings' page, then click 'DELETE'. This will also delete your Thingiverse account.",
         "domains": ["makerbot.com"]
     },
+
+    {
+        "name": "Management and Strategy Institute",
+        "url": "https://www.msicertified.com/contact/",
+        "difficulty": "hard",
+        "notes": "Need to email MSI Customer Service, which has business hours of 9am-5pm EST",
+        "email": "service@MSIcertified.com",
+        "domains": ["msicertified.com"]
+    },
+
     {
         "name": "Mangadex",
         "url": "https://mangadex.org/settings#del",
